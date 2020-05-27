@@ -1,0 +1,5 @@
+Open Source Software Package:
+- name: webOSOSE-webos-fonts
+  version: 1.0.0
+  source: https://github.com/webosose/webos-fonts
+  license: SIL Open Font License
